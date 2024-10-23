@@ -1,7 +1,7 @@
 ﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 Console.WriteLine("Hello, World!");
-Console.WriteLine("I live in Sweden");
+Console.WriteLine("I live in Denmark");
 Console.WriteLine("I like pandas");
 
 string text = System.IO.File.ReadAllText("panda-info.txt");
